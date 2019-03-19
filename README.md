@@ -2,6 +2,8 @@
 
 After AxTLS update to v2.0.0, the ESP8266 can work with TLS v1.2, the major restriction for this small device communicates with AWS IoT natively.
 
+An in-depth walkthrough is available at https://raphberube.com/blog/2019/02/18/Making-the-ESP8266-work-with-AWS-IoT.html
+
 
 #### How can I get AWS IoT working in my ESP8266 with arduino IDE?
 
